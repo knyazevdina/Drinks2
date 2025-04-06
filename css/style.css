@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+    background-image: url(../images/drinks.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    color: #d3d0d0;
+
+}
+
+
+#d1 {
+    height: 160px;
+    float: left;
+    margin: 0px 20px 0px 0px;
+}
+
+#d2 {
+    height: 140px;
+    float: left;
+    margin: 0px 20px 0px 0px;
+}
+
+#d3 {
+    height: 160px;
+    float: left;
+    margin: 0px 20px 0px 0px;
+}
+
+#d4 {
+    height: 160px;
+    float: left;
+    margin-right: 20px;
+}
